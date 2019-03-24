@@ -3,6 +3,6 @@
 print "Insira a medida em metros: ";
 $a = (int) fgets (STDIN);
 
-$conversao = $a*1000;
+$conversao = $a * 1000;
 
-print "medida convertida: $conversao milímetros" ;
+print "A medida convertida é de: $conversao milímetros" ;
