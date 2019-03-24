@@ -31,4 +31,4 @@
    $quant_galao = ceil ($resto_lata / $rendimento_lata);
    $custo_total = $quant_lata * $custo_lata + $quant_galao * $custo_galao;
 
-   print "Para pintar uma área de $area_para_pintar será necessário $quant_lata latas e $quant_galao galões de tinta, o que gera um custo total de $custo_total reais.";
+   print "Para pintar uma área de $area_para_pintar será necessário $quant_lata latas e $quant_galao galões de tinta, o que irá gerar um custo total de $custo_total reais.";
